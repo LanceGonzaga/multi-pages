@@ -50,6 +50,9 @@ src/
 ## Install Dependencies
 use npm install
 
+## Install React router
+npm isntall react-router-dom
+
 ## run a localhost
 npm run dev   # For Vite
 # or
