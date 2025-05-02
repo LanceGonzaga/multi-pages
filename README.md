@@ -47,6 +47,10 @@ src/
 | `/services` | Services  | Lists service offerings  |
 | `/contact`  | Contact   | Feedback form & summary  |
 
+## Vercel link
+
+[This is the link to the webpage](https://multi-pages-chi.vercel.app/)
+
 ## Install Dependencies
 use npm install
 
